@@ -20,8 +20,8 @@ A fast-paced, browser-based 3D racing game built with React and Three.js. Naviga
 | **S** / **Down Arrow** | Brake / Reverse |
 | **A** / **Left Arrow** | Steer Left |
 | **D** / **Right Arrow** | Steer Right |
-| **Spacebar** | Nitro Boost |
-| **Shift** | Drift (Tighter turns) |
+| **Spacebar** | Drift |
+| **Shift** | Nitro |
 
 ## 🛠️ Technologies Used
 
